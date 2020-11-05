@@ -12,14 +12,14 @@
 ### Skill Highlights
 
 ---
-+ Iam teacher in art school.
++ I am teacher in art school.
 + I love teaching.
-+ I love learn computer science
++ I love learn computer science.
 
 ---
 + Diploma : fatemieh school
 + Bachelor of science : Electronic Engineering
-  master :soft ware Engineering in payam Noor University of tehran shomal
+  master : soft ware Engineering in payam Noor University of tehran shomal
 
 ### Favorites
 
@@ -31,7 +31,7 @@
 + learning new things
 ### working Experience
 
-+ Iam teacher in art school.I am teaching computer science in art school.
++ I am teacher in art school.I am teaching computer science in art school.
 
 ### [contact with me](https://t.me/TeacherEbrahimi)
 
