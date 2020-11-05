@@ -46,4 +46,4 @@ body{
 +  کارشناس گروههای آموزشی رشته کامپیوتراداره کل آموزش وپرورش
 
 ### [تماس با من](https://t.me/TeacherEbrahimi)
-### [تماس با من](email:ebrahimi.z1354agmail.com)
+### [تماس با من](email://ebrahimi.z1354agmail.com)
