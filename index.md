@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ebrahimiz/ebrahimiz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Mir Mohammad Kamali
+<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal informations
 
-### Markdown
+---
++ name: Mir mohammad
++ last name : kamali
++ Date of birth : 1999/April/10
++ I am a trader and Computer engineering student
++ location : Tehran , I.R.Iran
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Skill Highlights
 
-# Header 1
-## Header 2
-### Header 3
+---
++ trade on Tehran Stock Exchange and Forex
++ Programming
++ playing games on best leagues
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+---
++ Diploma : Shahid Dr.Chamran school
+_ 2015
++ Bachelor of science : computer Engineering
+_ 2018,payam Noor University of Rey 
 
-**Bold** and _Italic_ and `Code` text
+### Favorites
 
-[Link](url) and ![Image](src)
-```
+---
++ Trade
++ ping-pong
++ travel 
++ playing video games
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### working Experience
 
-### Jekyll Themes
+---
++ I am working in Mofid Brokerage .
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ebrahimiz/ebrahimiz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--- 
+### [رزومه فارسی](resume-fa.md)
