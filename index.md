@@ -1,47 +1,41 @@
 
-### Mir Mohammad Kamali
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
-
+### zahra ebrahimi
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
++ name: zahra
++ last name :ebrahimi
++ I am student in master Computer engineering 
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ Programming
-+ playing games on best leagues
-
-### Education
++ Iam teacher in art school.
++ I love teaching.
++ I love learn computer science
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
-+ Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
++ Diploma : fatemieh school
++ Bachelor of science : Electronic Engineering
+  master :soft ware Engineering in payam Noor University of tehran shomal
 
 ### Favorites
 
 ---
-+ Trade
++ walking
 + ping-pong
 + travel 
-+ playing video games
-
++ Mountaineering
++ learning new things
 ### working Experience
 
----
-+ I am working in Mofid Brokerage .
++ Iam teacher in art school.I am teaching computer science in art school.
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### [contact with me](https://t.me/TeacherEbrahimi)
 
+### [contact with me](Email:ebrahimi.z1354a@gmail.com)
 
 --- 
 ### [رزومه فارسی](resume-fa.md)
